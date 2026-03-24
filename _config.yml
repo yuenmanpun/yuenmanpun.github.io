@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "archive.html", sidebaricon: home}
-  - {file: "index.md", title: "About Me", sidebaricon: home}
+  - {file: "index.md", title: "Homepage", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:ympunmandy@gmail.com"}

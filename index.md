@@ -1,19 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Home"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Biography
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
-
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+I am currently an honorary lecturer at School of Engineering, Australian National University, where I previously served as a postdoctoral fellow with Prof Iman Shames. I received a PhD degree in Systems Engineering and Engineering Management (SEEM) in 2022, an MPhil degree in SEEM in 2018, and a BSc degree in Mathematics in 2016, all from The Chinese University of Hong Kong. My PhD and MPhil degrees were both supervised by Prof Anthony Man-Cho So. My research focuses on optimization methods and its interplay with data science, signal processing, machine learning and operations research.

@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: testpage
 title: "Home"
 ---
 

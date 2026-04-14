@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "publication.md", title: "Publications"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "talks.md", title: "Talks"}
-  - {file: "archive.html", title: "Blog", sidebaricon: home}
+#  - {file: "archive.html", title: "Blog", sidebaricon: home}
 
 
 external:                       # accepts {file, title, url, icon, sidebaricon}

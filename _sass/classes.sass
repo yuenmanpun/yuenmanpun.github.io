@@ -45,3 +45,36 @@
     border: none
     margin: 0 1.5em 0 0
     padding: 0
+
+// Your new Homepage Layout
+.homepage-layout
+  display: flex
+  flex-direction: column
+  align-items: center
+  gap: 2rem
+  // We override the default body padding if it feels too wide
+  padding: 2em 1.5em 
+
+  .profile-photo
+    width: 180px
+    height: 180px
+    border-radius: 50% // Makes it a circle
+    object-fit: cover  // Prevents squishing the photo
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1)
+
+  .content-area
+    flex: 1
+    // Ensures text stays aligned properly
+    text-align: left 
+
+  // Desktop View (Tablet and up)
+  @media (min-width: 768px)
+    flex-direction: row
+    align-items: flex-start
+    padding: 2em 0 // Let the body > * logic handle side margins on desktop
+    
+    .profile-photo
+      width: 250px
+      height: 250px
+      position: sticky
+      top: 2rem

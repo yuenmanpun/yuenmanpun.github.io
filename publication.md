@@ -5,8 +5,8 @@ title: "Publications"
 
 ## Preprint
 
+* Dimitris Oikonomou, Matthew Buchholz, Yuen-Man Pun, Robert M. Gower, Nicolas Loizou. [Taking the Road Less Scheduled with Adaptive Polyak Steps.](https://arxiv.org/abs/2511.07767) arXiv preprint arXiv: 2511.07767, 2025.
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [On the Stability Connection Between Discrete-Time Algorithms and Their Resolution ODEs: Applications to Min-Max Optimisation.](https://arxiv.org/abs/2603.01430) arXiv preprint arXiv: 2603.01430, 2026.
-* Yuen-Man Pun, Matthew Buchholz, Robert Gower. [Schedulers for Schedule-free: Theoretically inspired hyperparameters.](https://arxiv.org/abs/2511.07767) arXiv preprint arXiv: 2511.07767, 2025.
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Tyler Summers, Iman Shames. [Minimisation of Submodular Functions Using Gaussian Zeroth-Order Random Oracles.](https://arxiv.org/abs/2510.15257) arXiv preprint arXiv: 2510.15257, 2025.
 * Amir Ali Farzin, Yuen-Man Pun, Iman Shames. [Minimisation of Quasar-Convex Functions Using Random Zeroth-Order Oracles.](https://arxiv.org/abs/2505.02281) arXiv preprint arXiv:2505.02281, 2025.
 * Yuen-Man Pun, Iman Shames. [Online Non-Stationary Stochastic Quasar-Convex Optimization.](https://arxiv.org/abs/2407.03601) arXiv preprint arXiv: 2407.03601, 2024.

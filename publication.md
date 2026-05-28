@@ -7,13 +7,13 @@ title: "Publications"
 
 * Dimitris Oikonomou, Matthew Buchholz, Yuen-Man Pun, Robert M. Gower, Nicolas Loizou. [Taking the Road Less Scheduled with Adaptive Polyak Steps.](https://arxiv.org/abs/2511.07767) arXiv preprint arXiv: 2511.07767, 2025.
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [On the Stability Connection Between Discrete-Time Algorithms and Their Resolution ODEs: Applications to Min-Max Optimisation.](https://arxiv.org/abs/2603.01430) arXiv preprint arXiv: 2603.01430, 2026.
-* Amir Ali Farzin, Yuen-Man Pun, Iman Shames. [Minimisation of Quasar-Convex Functions Using Random Zeroth-Order Oracles.](https://arxiv.org/abs/2505.02281) arXiv preprint arXiv:2505.02281, 2025.
+* Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Tyler Summers, Iman Shames. [Minimisation of Submodular Functions Using Gaussian Zeroth-Order Random Oracles.](https://arxiv.org/abs/2510.15257) arXiv preprint arXiv:2510.15257, 2025.
 * Yuen-Man Pun, Iman Shames. [Online Non-Stationary Stochastic Quasar-Convex Optimization.](https://arxiv.org/abs/2407.03601) arXiv preprint arXiv: 2407.03601, 2024.
 * Yuen-Man Pun, Farhad Farokhi, Iman Shames. [Distributionally Time-Varying Online Stochastic Optimization under Polyak-Łojasiewicz Condition with Application in Conditional Value-at-Risk Statistical Learning.](https://arxiv.org/abs/2309.09411) arXiv preprint arXiv:2309.09411, 2023.
 
 ## Journal
 
-* Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Tyler Summers, Iman Shames. [Minimisation of Submodular Functions Using Gaussian Zeroth-Order Random Oracles.](https://arxiv.org/abs/2510.15257) Accepted for publication in Transactions on Machine Learning Research (2026).
+* Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [Minimisation of Quasar-Convex Functions Using Random Zeroth-Order Oracles.](https://openreview.net/forum?id=rRp9zZBKkZ) Accepted for publication in Transactions on Machine Learning Research (2026).
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Antoine Lesage-Landry, Youseff Diouane, Iman Shames. [Min-Max Optimisation for Nonconvex-Nonconcave Functions Using a Random Zeroth-Order Extragradient Algorithm.](https://openreview.net/forum?id=1bxY1uAXyr) Transactions on Machine Learning Research (2025).
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [Properties of Fixed Points of Generalised Extra Gradient Methods Applied to Min-Max Problems.](https://ieeexplore.ieee.org/abstract/document/11008549) IEEE Control Systems Letters (2025) 9:306-311.
 * Yuen-Man Pun, Anthony Man-Cho So. [Global Strong Convexity and Characterization of Critical Points of Time-of-Arrival-Based Source Localization.](https://www.sciencedirect.com/science/article/abs/pii/S0925772123000974) Computational Geometry: Theory and Applications (2024) 119:102077.

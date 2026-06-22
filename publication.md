@@ -13,7 +13,7 @@ title: "Publications"
 
 ## Journal
 
-* Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [Minimisation of Quasar-Convex Functions Using Random Zeroth-Order Oracles.](https://openreview.net/forum?id=rRp9zZBKkZ) Accepted for publication in Transactions on Machine Learning Research (2026).
+* Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [Minimisation of Quasar-Convex Functions Using Random Zeroth-Order Oracles.](https://openreview.net/forum?id=rRp9zZBKkZ) Transactions on Machine Learning Research (2026).
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Antoine Lesage-Landry, Youseff Diouane, Iman Shames. [Min-Max Optimisation for Nonconvex-Nonconcave Functions Using a Random Zeroth-Order Extragradient Algorithm.](https://openreview.net/forum?id=1bxY1uAXyr) Transactions on Machine Learning Research (2025).
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [Properties of Fixed Points of Generalised Extra Gradient Methods Applied to Min-Max Problems.](https://ieeexplore.ieee.org/abstract/document/11008549) IEEE Control Systems Letters (2025) 9:306-311.
 * Yuen-Man Pun, Anthony Man-Cho So. [Global Strong Convexity and Characterization of Critical Points of Time-of-Arrival-Based Source Localization.](https://www.sciencedirect.com/science/article/abs/pii/S0925772123000974) Computational Geometry: Theory and Applications (2024) 119:102077.

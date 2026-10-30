@@ -3,7 +3,8 @@ layout: page
 title: "Talks"
 ---
 
-I have given 10+ talks at international conferences and institutions:
+I have given 11+ talks at international conferences and institutions:
+* Spherical Design Gradient Oracles for Zeroth-Order Optimization, Optimisation Days 2026, October 2026.
 * Online Non-Stationary Stochastic Quasar-Convex Optimization, GERAD seminar at Polytechnique Montreal, March 2025.
 * Benign Optimization Landscape of Formulations for Time-of-Arrival-Based Source Localization Problem, William Tutte Colloquium at Department of Combinatorics and Optimization, University of Waterloo, March 2025.
 * Online Conditional Value-at-Risk Learning under Distribution Drifts, AUSMURI workshop, May 2024.

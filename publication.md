@@ -5,6 +5,7 @@ title: "Publications"
 
 ## Preprint
 
+* Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [Spherical-Design Oracles for Zeroth-Order Optimisation: Deterministic, Variance-Free Gradient Estimation.](https://arxiv.org/abs/2610.24373) arXiv preprint arXiv: 2610.24373, 2026.
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Iman Shames. [On the Stability Connection Between Discrete-Time Algorithms and Their Resolution ODEs: Applications to Min-Max Optimisation.](https://arxiv.org/abs/2603.01430) arXiv preprint arXiv: 2603.01430, 2026.
 * Amir Ali Farzin, Yuen-Man Pun, Philipp Braun, Tyler Summers, Iman Shames. [Minimisation of Submodular Functions Using Gaussian Zeroth-Order Random Oracles.](https://arxiv.org/abs/2510.15257) arXiv preprint arXiv:2510.15257, 2025.
 * Yuen-Man Pun, Iman Shames. [Online Non-Stationary Stochastic Quasar-Convex Optimization.](https://arxiv.org/abs/2407.03601) arXiv preprint arXiv: 2407.03601, 2024.
